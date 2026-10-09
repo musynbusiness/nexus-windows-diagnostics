@@ -1,0 +1,7 @@
+{
+  "name": "nexus-windows-cloud-qa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test": "node diagnose.cjs" },
+  "dependencies": { "playwright": "1.64.0" }
+}
